@@ -6,7 +6,7 @@
   "types": "lib/index",
   "author": "Jonas Kello",
   "license": "MIT",
-  "repository": "https://github.com/dividab/tsconfig-paths-webpack-plugin",
+  "repository": "https://github.com/andrewstart/tsconfig-paths-webpack-plugin",
   "dependencies": {
     "chalk": "^2.3.0",
     "enhanced-resolve": "^5.0.0",
